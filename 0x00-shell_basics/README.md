@@ -5,3 +5,4 @@
 4-listmorefiles liste more files
 5-listfilesdigitonly list files digit only
 6-firstdirectory create directory at tmp folder
+7-movethatfile Move the file betty from /tmp/ to /tmp/my_first_directory.
