@@ -2,3 +2,4 @@
 1-listit Display the contents list of your current directory
 2-bring_me_home change to home directory
 3-listfiles liste files
+4-listmorefiles liste more files
