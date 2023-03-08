@@ -10,3 +10,4 @@
 9-firstdirdeletion delete my first directory
 10-back go back to previous directory
 11-lists list files of three folders current parent and /boot
+12-file_type write the type of the file named
