@@ -4,3 +4,4 @@
 3-listfiles liste files
 4-listmorefiles liste more files
 5-listfilesdigitonly list files digit only
+6-firstdirectory create directory at tmp folder
